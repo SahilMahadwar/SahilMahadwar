@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! <img src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/Hi.gif" width="30px"></h2>
 
-<!--
-**SahilMahadwar/SahilMahadwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/mahadwar_sahil">
+  <img align="left" alt="Sahil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mahadwar/">
+  <img align="left" alt="Sahil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF" src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/rick.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Sahil Mahadwar
+- A Full-Stack MERN Developer & Cyber security enthusiast.
+- A Computer Engineering Student. 
+- Currently working on some of my cool side projects based on Web Development.
+- I'm currently looking for freelance opportunities. I love to learn and contribute in any and every possible way.
