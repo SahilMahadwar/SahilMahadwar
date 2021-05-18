@@ -1,12 +1,12 @@
 ## Hello World! <img src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/mahadwar_sahil">
+<!-- <a href="https://twitter.com/mahadwar_sahil">
   <img align="left" alt="Sahil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mahadwar/">
   <img align="left" alt="Sahil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+ -->
 <br />
 <img align="right" alt="GIF" src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/rick.gif" />
 
