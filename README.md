@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/rick.gif" />
 
 ### I am Sahil Mahadwar
-- A Full-Stack MERN Developer & Cyber security enthusiast.
-- A Computer Engineering Student. 
-- Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for freelance opportunities. I love to learn and contribute in any and every possible way.
+👨‍💻 A Full-Stack MERN Developer & Cyber security enthusiast.<br /><br />
+👨‍🎓 Computer Engineering Student. <br /><br />
+🧰 Currently working on some of my cool side projects based on Web Development.<br /><br />
+✉️ I'm currently looking for freelance opportunities. I love to learn and contribute in any and every possible way.<br /><br />
