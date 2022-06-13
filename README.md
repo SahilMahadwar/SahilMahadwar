@@ -1,6 +1,7 @@
-## Hello World! <img src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/Hi.gif" width="30px"></h2>
+## Hello World! 
 
 <!-- <a href="https://twitter.com/mahadwar_sahil">
+<img src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/Hi.gif" width="30px"></h2>
   <img align="left" alt="Sahil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mahadwar/">
