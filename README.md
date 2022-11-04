@@ -1,4 +1,4 @@
-## Hello World! 
+<!-- ## Hello World!  -->
 
 <!-- <a href="https://twitter.com/mahadwar_sahil">
 <img src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/Hi.gif" width="30px"></h2>
@@ -9,13 +9,13 @@
 </a>
  -->
 <!-- <br /> -->
-<img align="right" alt="GIF" src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/rick.gif" />
+<!-- <img align="right" alt="GIF" src="https://github.com/SahilMahadwar/SahilMahadwar/blob/main/rick.gif" /> -->
 
-### I am Sahil Mahadwar
+<!-- ### I am Sahil Mahadwar
 👨‍💻 A Full-Stack MERN Developer & Cyber security enthusiast.<br /><br />
 👨‍🎓 Computer Engineering Student. <br /><br />
 🧰 Currently working on some of my cool side projects based on Web Development.<br /><br />
 ✉️ I'm currently looking for freelance opportunities. I love to learn and contribute in any and every possible way.<br /><br />
-
+ -->
 
 [![@sahilmahadwar's Holopin board](https://holopin.me/sahilmahadwar)](https://holopin.io/@sahilmahadwar)
